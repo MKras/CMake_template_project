@@ -1,2 +1,2 @@
-# This is a template C++ project with Gtest
+# This is a template C++ project with CMake and Gtest
 
