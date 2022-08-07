@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.0)
 
 set (NAME ${NAME}-test)
-project(${NAME}})
+project(${NAME})
 
 set(CMAKE_CXX_STANDARD 17)
 
